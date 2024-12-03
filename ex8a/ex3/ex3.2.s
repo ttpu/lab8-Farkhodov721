@@ -2,6 +2,7 @@
 _start:
     MOV     R0, #0
     MOV     R2, #0
+    MOV     R1, #13
 
 loop:
     ADD     R2, R2, R0
